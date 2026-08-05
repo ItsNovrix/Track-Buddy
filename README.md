@@ -68,7 +68,7 @@ Track Buddy is designed to be flexible. Moderators can fine-tune the bot's behav
 
 ## 🧾 Source & License
 
-The source code for Track Buddy is available on [GitHub](https://github.com/ItsNovrix/TrackBuddy).
+The source code for Track Buddy is available on [GitHub](https://github.com/ItsNovrix/Track-Buddy).
 
 This project is licensed under the [BSD-3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
 This app was developed in compliance with [Reddit's Developer Terms](https://www.redditinc.com/policies/developer-terms) and adheres to the guidelines for the Devvit platform.
@@ -86,6 +86,7 @@ This app was developed in compliance with [Reddit's Developer Terms](https://www
 * v1.0.4: Updated app to latest Devvit version.
 * v1.0.5: Updated README.
 * v1.0.6: Updated app to latest Devvit version.
+* v1.0.7: Updated app to latest Devvit version. Updated GitHub repo link.
 
 **📂 Beta Development History**
 
