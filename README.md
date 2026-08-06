@@ -75,6 +75,12 @@ This app was developed in compliance with [Reddit's Developer Terms](https://www
 
 ---
 
+## 🆘 Feedback & Support
+
+If you have any feedback/suggestions or need support, visit [r/NovrixApps](https://www.reddit.com/r/NovrixApps).
+
+---
+
 ## 🚀 Changelog
 
 **🛡️ Core Releases**
@@ -87,6 +93,7 @@ This app was developed in compliance with [Reddit's Developer Terms](https://www
 * v1.0.5: Updated README.
 * v1.0.6: Updated app to latest Devvit version.
 * v1.0.7: Updated app to latest Devvit version. Updated GitHub repo link.
+* v1.0.8: Updated support subreddit link.
 
 **📂 Beta Development History**
 
@@ -106,9 +113,5 @@ This app was developed in compliance with [Reddit's Developer Terms](https://www
 * v0.0.14: Updated app to latest Devvit release.
 
 ---
-
-## 🆘 Support
-
-If you encounter any issues or have questions, please DM [u/ItsNovrix](https://reddit.com/u/ItsNovrix).
 
 Thanks for using **Track Buddy**!
