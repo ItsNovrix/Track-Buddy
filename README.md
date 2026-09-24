@@ -83,34 +83,11 @@ If you have any feedback/suggestions or need support, visit [r/NovrixApps](https
 
 ## 🚀 Changelog
 
-**🛡️ Core Releases**
+**Latest Version:** v1.0.11
 
-* v1.0.0: Migrated app off deprecated blocks architecture.
-* v1.0.1: Updated app settings.
-* v1.0.2: Updated app to latest Devvit version.
-* v1.0.3: Updated app to latest Devvit version.
-* v1.0.4: Updated app to latest Devvit version.
-* v1.0.5: Updated README.
-* v1.0.6: Updated app to latest Devvit version.
-* v1.0.7: Updated app to latest Devvit version. Updated GitHub repo link.
-* v1.0.8: Updated support subreddit link.
+* Updated app version due to previous publishing error.
 
-**📂 Beta Development History**
-
-* v0.0.1: Basic functionality implemented.
-* v0.0.2: Corrected errors in bot logic and comment formatting.
-* v0.0.3: Updated README and resource links.
-* v0.0.4: Implemented options for customizing keyword tracking, flight number regex, and reassurance message.
-* v0.0.5: Implemented disclaimer and keyword tracking for future flights due to future flight tracking limitations.
-* v0.0.6: Updated bot logic for tracking post detection.
-* v0.0.7: Further updates to bot logic for tracking post detection.
-* v0.0.8: Testing updated bot logic for tracking post detection.
-* v0.0.9: Official launch version - Updated bot logic implemented and confirmed, bot targets post flair rather than keywords for added reliability.
-* v0.0.10: Minor README update and bot reupload due to Devvit error.
-* v0.0.11: Added new optional toggle to automatically sticky bot comment on submission.
-* v0.0.12: Updated Devvit version to latest version. Updated README.
-* v0.0.13: Updated README.
-* v0.0.14: Updated app to latest Devvit release.
+For the full changelog, please visit the Weathercast [GitHub](https://github.com/ItsNovrix/Track-Buddy).
 
 ---
 
