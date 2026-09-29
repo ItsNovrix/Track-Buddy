@@ -2,9 +2,15 @@
 
 ---
 
+## v1.0.12
+
+* Updated app to latest Devvit version
+
+---
+
 ## v1.0.11
 
-* Updated app version due to previous publishing error.
+* Updated app version due to previous publishing error
 
 ---
 

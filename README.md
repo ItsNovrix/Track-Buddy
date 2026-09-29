@@ -83,9 +83,9 @@ If you have any feedback/suggestions or need support, visit [r/NovrixApps](https
 
 ## 🚀 Changelog
 
-**Latest Version:** v1.0.11
+**Latest Version:** v1.0.12
 
-* Updated app version due to previous publishing error.
+* Updated app to latest Devvit version.
 
 For the full changelog, please visit the Weathercast [GitHub](https://github.com/ItsNovrix/Track-Buddy).
 
