@@ -81,9 +81,15 @@ If you have any feedback/suggestions or need support, visit [r/NovrixApps](https
 
 ---
 
+## 📋 App Development
+
+Track upcoming features, planned updates, and known issues for all my Devvit apps on the [Novrix Labs Trello Board](https://trello.com/b/1TdocvRg/novrix-labs).
+
+---
+
 ## 🚀 Changelog
 
-**Latest Version:** v1.0.12
+**Latest Version:** v1.0.13
 
 * Updated app to latest Devvit version.
 
