@@ -89,11 +89,11 @@ Track upcoming features, planned updates, and known issues for all my Devvit app
 
 ## 🚀 Changelog
 
-**Latest Version:** v1.0.13
+**Latest Version:** v1.0.14
 
-* Updated app to latest Devvit version.
+* Updated app to latest Devvit release.
 
-For the full changelog, please visit the Weathercast [GitHub](https://github.com/ItsNovrix/Track-Buddy).
+For the full changelog, please visit the Track Buddy [GitHub](https://github.com/ItsNovrix/Track-Buddy).
 
 ---
 

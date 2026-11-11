@@ -1,5 +1,9 @@
 # 🚀 Changelog for Track Buddy
 
+## v1.0.14
+
+* Updated app to latest Devvit release
+
 ---
 
 ## v1.0.13
